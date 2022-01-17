@@ -5,3 +5,23 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container img {
+  width: 400px;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.container a {
+  width: 200px;
+  margin-top: 20px;
+}
+.container2 img {
+  width: 100px;
+}
+.greyTag {
+  color: #bfbfbf;
+}
